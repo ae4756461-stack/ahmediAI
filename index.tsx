@@ -1,0 +1,1 @@
+// Content has been moved to index.html to ensure compatibility with GitHub Pages
